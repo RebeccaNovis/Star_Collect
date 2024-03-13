@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Ground
+  - pick_up
+  - theobjectToIgnore
+  - red
+  - reStarter
+  - endOfLevelOne
+  - KeyItem
+  - endOfLevelTwo
+  - Notice
+  - meteor
+  - metText
+  - showerTxt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - metCanColl
+  - Water
+  - UI
+  - metNoColl
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg_layer
+    uniqueID: 336466611
+    locked: 0
+  - name: stars
+    uniqueID: 387528593
+    locked: 0
+  - name: other
+    uniqueID: 21034223
+    locked: 0
